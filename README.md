@@ -1,2 +1,12 @@
 # Javascript-Projects
-A code repository for javascript practice.
+
+# Javascript Master Course from Begineer to Expert:
+
+1. Javascript Fundamental
+2. DOM Manipulation
+3. ES6+ Feature
+4. Working with APIs
+5. Frontend Framework Basics
+6. Building Web Application
+7. Introduction to Mobile App Development
+8. Version control and Development
